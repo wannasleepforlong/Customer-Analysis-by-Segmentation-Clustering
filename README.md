@@ -1,2 +1,2 @@
-# Customer-Analysis-by-Segmentation-Clustering
-Customer analysis
+# Customer-Analysis-by-Clustering
+Customer analysis by clustering using K_Means.
